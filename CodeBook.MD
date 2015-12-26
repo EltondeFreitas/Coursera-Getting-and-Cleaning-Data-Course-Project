@@ -12,18 +12,18 @@ In the dataset, the columns with vague column names are corrected.
 
 Ultimately, it is generated a new dataset with all average measures for each subject and activity type (30 subjects * 6 activities). The last file created  is called averages_data.txt, and uploaded to this repository.
 
-Variables
-contain the data from the downloaded files:
-y_train; <p>
-x_train; 
-y_test; 
-x_test;
-subject_test;
-subject_train.
+Variables<p>
+contain the data from the downloaded files:<p>
+y_train;<p>
+x_train;<p>
+y_test;<p>
+x_test;<p>
+subject_test;<p>
+subject_train.<p>
 
-Subject_data merge the previous datasets to further analysis:
-x_data; 
-y_data. 
+Subject_data merge the previous datasets to further analysis:<p>
+x_data;<p>
+y_data.<p>
 
 The correct names for the x_data dataset is in "features" (stored in mean_and_std_features) that was applied to the column names , a vector used to extract the filtered data.
 A similar approach is taken with activity names through the activities variable.
