@@ -14,7 +14,7 @@ Ultimately, it is generated a new dataset with all average measures for each sub
 
 Variables
 contain the data from the downloaded files:
-y_train; 
+y_train; <p>
 x_train; 
 y_test; 
 x_test;
