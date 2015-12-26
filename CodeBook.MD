@@ -26,7 +26,7 @@ Ultimately, it is generated a new dataset with all average measures for each sub
 2) y_data.<p>
 
 
-*** x_data<p><p>
+*** <bold>x_data</bold><p>
 The correct names for the x_data dataset is in "features" (stored in mean_and_std_features) that was applied to the column names , a vector used to extract the filtered data.
 A similar approach is taken with activity names through the activities variable.
 
