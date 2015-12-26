@@ -25,11 +25,13 @@ Subject_data merge the previous datasets to further analysis:<p>
 1) x_data;<p>
 2) y_data.<p>
 
-<p>x_data<p>
+
+x_data<p><p>
 The correct names for the x_data dataset is in "features" (stored in mean_and_std_features) that was applied to the column names , a vector used to extract the filtered data.
 A similar approach is taken with activity names through the activities variable.
 
-<p>all_data<p>
+
+all_data<p><p>
 The big dataset all_data, merges: x_data, y_data and subject_data.
 From the plyr package, "ddply()",  is used to be aplicate "colMeans()" and ease the development of the project.
 In the end, the "averages_data" have the averages which will be later stored in a text file. 
