@@ -1,14 +1,18 @@
-#Getting and Cleaning Data - Course Project
-This repository hosts the R code and documentation files for the Data Science's track course "Getting and Cleaning data", available in coursera.
+#Getting and Cleaning Data - Project Course
+This repository contains the files of the Specialization Line Project: Getting and Cleaning Data of Johns Hopkins University.
 
-The dataset being used is: Human Activity Recognition Using Smartphones
+#Overview
 
-#Files
+this project has the purpose of showing the collection, cleaning and treatment of a group of data that is subsequently processed and analyzed.
 
-The code takes for granted all the data is present in the same folder, un-compressed and without names altered.
+#Making Modifications to This Script
 
-CodeBook.md describes the variables, the data, and any transformations or work that was performed to clean up the data.
+After obtained and unpacked the Source Files, it will be necessary Make modifications FOR the R Archive to process the Data.
+This treatment is necessary so that it is possible to analyze the data later.
+This treatment can be resumed in a merge of a group of files who have the same collumns, put the header in the merged files, after merged and with the headers, filter the collumns with mean and std and analyze the data.
 
-run_analysis.R contains all the code to perform the analyses described in the 5 steps. They can be launched in RStudio by just importing the file.
+CodeBook.md: Describes how variables, data and any data transformations necessary to CLEANING.
 
-The output of the 5th step is called averages_data.txt, and uploaded in the course project's form.
+run_analysis.R: Contains the necessary code to perform analyzes Expressed in the 5 Steps. It can be Loaded importing file in r studio.
+
+averages_data.txt: The output of the Fifth Step, it´s sent in the form of Course Project.
