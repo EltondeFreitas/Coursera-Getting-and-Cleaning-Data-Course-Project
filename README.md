@@ -2,14 +2,12 @@
 This repository contains the files of the Specialization Line Project: Getting and Cleaning Data of Johns Hopkins University.
 
 #Overview
-
-this project has the purpose of showing the collection, cleaning and treatment of a group of data that is subsequently processed and analyzed.
+This project has the purpose of showing: collect, cleaning and treatment of a data group that is subsequently processed and analyzed.
 
 #Making Modifications to This Script
-
-After obtained and unpacked the Source Files, it will be necessary Make modifications FOR the R Archive to process the Data.
+After obtained and unpacked the Source Files, it will be necessary Make modifications for the R archive to process the data.
 This treatment is necessary so that it is possible to analyze the data later.
-This treatment can be resumed in a merge of a group of files who have the same collumns, put the header in the merged files, after merged and with the headers, filter the collumns with mean and std and analyze the data.
+This treatment can be resumed in a merge of a group files who have the same collumns, put the header in the merged files, after merged and with the headers, filter the columns with mean and std and analyze the data.
 
 CodeBook.md: Describes how variables, data and any data transformations necessary to CLEANING.
 
